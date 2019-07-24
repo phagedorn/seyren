@@ -127,6 +127,7 @@ You can use the [Docker Seyren Image](https://registry.hub.docker.com/u/usman/do
 ##Development
 
 [![Build Status](https://secure.travis-ci.org/scobal/seyren.png?branch=master)](http://travis-ci.org/scobal/seyren)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphagedorn%2Fseyren.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphagedorn%2Fseyren?ref=badge_shield)
 
 To run the acceptance tests with Maven:
 
@@ -154,3 +155,7 @@ mvn package -DskipTests
 # Set environment variables as needed.
 java -jar seyren-web/target/seyren-web-*-war-exec.jar
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphagedorn%2Fseyren.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphagedorn%2Fseyren?ref=badge_large)
